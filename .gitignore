@@ -1,0 +1,7 @@
+# Directory
+mbed-os
+mbed-os/*
+
+# File type
+*.mbed
+*.py
